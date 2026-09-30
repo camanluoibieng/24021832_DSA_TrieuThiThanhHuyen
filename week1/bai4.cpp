@@ -1,3 +1,4 @@
+//Viết chương trình nhập vào hai số a, b, viết hàm rút gọn phân số a/b (hàm kiểu void)
 #include <iostream>
 using namespace std;
 
